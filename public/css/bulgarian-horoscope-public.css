@@ -1,0 +1,22 @@
+#znacite-horoscopi a {
+  text-decoration: none;
+}
+.hor-md-4 {
+  position: relative;
+  min-height: 1px;
+  float: left;
+}
+
+.hor-md-4 {
+  width: 25%;
+  font-size: 3em;
+}
+
+.zn-hrtext {
+  font-size: 1em;
+  text-align: justify;
+}
+.zn-text-center {
+  font-size:3vw;
+  text-align: center;
+}
